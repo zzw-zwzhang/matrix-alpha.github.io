@@ -1,4 +1,4 @@
-# New Benchmarks for Accountable Text-based Visual Re-creation
+## New Benchmarks for Accountable Text-based Visual Re-creation
 
 ![Python >=3.6](https://img.shields.io/badge/Python->=3.6-blue.svg)
 ![PyTorch >=1.1](https://img.shields.io/badge/PyTorch->=1.1-yellow.svg)
