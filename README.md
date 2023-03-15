@@ -7,7 +7,7 @@
 
 The *official* repository for [New Benchmarks for Accountable Text-based Visual Re-creation](https://arxiv.org/pdf/2303.05983.pdf).
 
-![ Qualitative results of CLEVR-ATVM dataset.](<img width="936" alt="image" src="https://user-images.githubusercontent.com/107047197/225356134-f9546b61-c903-495b-88a8-d38dabc39c86.png">)
+![ Qualitative results of CLEVR-ATVM dataset.](CLEVR-ATVM.png)
 
 ### Requirements
 
