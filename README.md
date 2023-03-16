@@ -19,10 +19,11 @@ The *official* repository for [New Benchmarks for Accountable Text-based Visual 
 ## Citation
 If you find this code useful for your research, please cite our paper
 ```
-@inproceedings{zhang2023atvm,
-    title={New Benchmarks for Accountable Text-based Visual Re-creation},
-    author={Zhiwei Zhang*, Yuliang Liu*},
-    year={2023}
+@article{zhang2023new,
+  title={New Benchmarks for Accountable Text-based Visual Re-creation},
+  author={Zhang, Zhiwei and Liu, Yuliang},
+  journal={arXiv preprint arXiv:2303.05983},
+  year={2023}
 }
 ```
 
